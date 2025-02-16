@@ -14,15 +14,15 @@ Whether you're a fan of well-known stars or interested in discovering rising tal
 
 ## 🔗 Key Pages and Features
 
-### [Babes Database](https://babepedia.net/babes/)
+### Babes Database
 Discover profiles of models, including information about their careers, backgrounds, and achievements. Each profile is carefully curated to provide a detailed and engaging experience for our visitors.
 
-### [Galleries](https://babepedia.net/gallerys/)
+### Galleries
 Stay up-to-date with our latest additions of high-quality photos and galleries featuring your favorite models. New updates are added frequently to keep the content fresh and exciting.
 
 ---
 
-## 🌐 Why Choose Babepedia.net?
+## 🌐 Why Choose
 
 1. **Comprehensive Profiles**: Explore detailed biographies and information about models from around the world.
 2. **Regular Updates**: Our database and galleries are updated frequently to ensure fresh and relevant content.
@@ -66,4 +66,4 @@ We welcome contributions or suggestions to improve Babepedia.net. If you have id
 
 ### 🔥 Explore Now
 
-Visit [Babepedia.net](https://babepedia.net/) today and dive into a world of detailed profiles, stunning galleries, and up-to-date content!
+Visit Babepedia today and dive into a world of detailed profiles, stunning galleries, and up-to-date content!
