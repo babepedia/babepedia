@@ -19,10 +19,10 @@ I work on a variety of projects, including:
 - **Open-source tools**
 
 ## 📫 Connect with Me
-- 🌐 Website: [Coming Soon]
-- 📧 Email: [your-email@example.com]
-- 🐦 Twitter: [@your-twitter](https://twitter.com/your-twitter)
-- 🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- 🌐 Website: [babepedia.net]
+- 📧 Email: [info@babepedia.net]
+- 🐦 Twitter: [@babepedia_com](https://x.com/babepedia_com)
+- 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/company/babepedia/)
 
 ## 🌟 Contributions & Collaborations
 I'm always open to contributions, collaborations, and discussions. Feel free to check out my repositories, submit issues, and contribute!
