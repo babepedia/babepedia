@@ -38,7 +38,7 @@ I work on a variety of projects, including:
 ## 📫 Connect with Me
 - 🌐 Website: [babepedia.net]
 - 📧 Email: [info@babepedia.net]
-- 🐦 Twitter: [@babepedia_com](https://x.com/babepedia_com)
+- 🐦 Twitter: [@babepedia_com](https://x.com/babe_pedia)
 - 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/company/babepedia/)
 
 ## 🌟 Contributions & Collaborations
