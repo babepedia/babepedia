@@ -1,16 +1,33 @@
-# 👋 Welcome to Babepedia's GitHub Profile!
+# Babepedia
 
-## 🚀 About Me
-Hi there! I'm **Babepedia**, a developer passionate about web development, automation, and open-source projects. I love building efficient, scalable, and user-friendly applications.
+## Overview
 
-## 🔥 Skills & Tech Stack
-- **Languages:** JavaScript, PHP, Python, Bash, SQL
-- **Frontend:** HTML, CSS, Tailwind CSS, Bootstrap
-- **Backend:** Node.js, Express, Laravel
-- **Databases:** MySQL, MongoDB
-- **DevOps:** Ubuntu, CloudPanel, Azure, Docker
-- **Other:** Web Scraping, API Development, Automation
+Babepedia ([https://babepedia.net/](https://babepedia.net/)) is a comprehensive online database dedicated to cataloging information about models. This repository contains the public source code for the Babepedia website, designed to provide users with an accessible and searchable platform for model profiles.
 
+## Features
+
+- **Model Profiles**: Detailed pages for each model, including biography, images, and statistics.
+- **Search Functionality**: Easy-to-use search to find models by name, category, or other attributes.
+- **Responsive Design**: Optimized for both desktop and mobile browsing.
+- **Public API**: (If applicable) Access to model data via a RESTful API for developers.
+
+## Tech Stack
+
+- **Frontend**: HTML, CSS, JavaScript (e.g., React, Vue.js, or vanilla JS)
+- **Backend**: (e.g., Node.js with Express, Python with Django/Flask)
+- **Database**: (e.g., MySQL, PostgreSQL, MongoDB)
+- **Hosting**: (e.g., AWS, Heroku, or custom server)
+
+*(Note: Replace placeholders with your actual technologies.)*
+
+## Installation
+
+To run Babepedia locally, follow these steps:
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/babepedia/babepedia.git
+   
 ## 📌 Projects
 I work on a variety of projects, including:
 - **Web applications**
