@@ -11,15 +11,6 @@ Babepedia ([https://babepedia.net/](https://babepedia.net/)) is a comprehensive 
 - **Responsive Design**: Optimized for both desktop and mobile browsing.
 - **Public API**: (If applicable) Access to model data via a RESTful API for developers.
 
-## Tech Stack
-
-- **Frontend**: HTML, CSS, JavaScript (e.g., React, Vue.js, or vanilla JS)
-- **Backend**: (e.g., Node.js with Express, Python with Django/Flask)
-- **Database**: (e.g., MySQL, PostgreSQL, MongoDB)
-- **Hosting**: (e.g., AWS, Heroku, or custom server)
-
-*(Note: Replace placeholders with your actual technologies.)*
-
 ## Installation
 
 To run Babepedia locally, follow these steps:
